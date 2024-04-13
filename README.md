@@ -31,6 +31,8 @@ Drowsy driver detection systems are a developing technology with the potential t
 
 ## Output :
 <center><img src="Screenshot 2024-04-13 210636.png" align="center" height="350"></center>
+<center><img src="Screenshot 2024-04-13 210650.png" align="center" height="350"></center>
+<center><img src="Screenshot 2024-04-13 210702.png" align="center" height="350"></center>
 
 ## Benefits of DDDS : 
 Reduces Drowsy Driving Accidents: By alerting drivers to their state, DDDS can help prevent accidents caused by drowsiness.
